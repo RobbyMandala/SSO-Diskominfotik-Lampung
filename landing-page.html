@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./landing-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="landing-page-2">
+      <main class="banner-image2">
+        <img
+          class="gambar-pantai-gigi-hiu-13"
+          alt=""
+          src="./public/gambar-pantai-gigi-hiu-11@2x.png"
+        />
+
+        <section class="banner-image3">
+          <div class="banner-image-child"></div>
+          <h1 class="satu-login-untuk1">
+            Satu Login Untuk Semua Sistem Informasi
+          </h1>
+          <b class="gunakan-satu-akun1"
+            >Gunakan satu akun untuk mengakses berbagai sistem informasi
+            pemerintahan dan layanan publik Provinsi Lampung.
+          </b>
+          <div class="logo">
+            <img
+              class="logo-1-icon13"
+              loading="lazy"
+              alt=""
+              src="./public/logo-11@2x.png"
+            />
+
+            <img
+              class="logo-1800-lampung-thumb-1-icon22"
+              loading="lazy"
+              alt=""
+              src="./public/logo-1800-lampung-thumb-12@2x.png"
+            />
+          </div>
+          <div class="floating-icon1">
+            <div class="rectangle-parent157">
+              <div class="frame-child170"></div>
+              <b class="terintegrasi1">Terintegrasi</b>
+              <i class="nikmati-pengalaman-yang1"
+                >Nikmati pengalaman yang lebih baik dengan integrasi layanan
+                publik dan sistem pemerintahan.</i
+              >
+            </div>
+            <div class="rectangle-parent158">
+              <div class="frame-child171"></div>
+              <b class="lebih-cepat-dan-container1">
+                <span class="lebih-cepat-dan-container2">
+                  <p class="lebih-cepat">Lebih Cepat dan</p>
+                  <p class="efisien1">Efisien</p>
+                </span>
+              </b>
+              <i class="hemat-waktu-dan1"
+                >Hemat waktu dan tenaga dengan tidak perlu login berulang
+                kali.</i
+              >
+            </div>
+            <div class="rectangle-parent159">
+              <div class="frame-child172"></div>
+              <b class="easy-access1">Easy Access</b>
+              <i class="capai-kemudahan-akses1"
+                >Capai kemudahan akses ke berbagai layanan digital dengan satu
+                sistem informasi.</i
+              >
+            </div>
+            <div class="rectangle-parent160">
+              <div class="frame-child171"></div>
+              <b class="tanpa-ribet1">Tanpa Ribet!</b>
+              <i class="akses-layanan-publik-container1">
+                <span class="lebih-cepat-dan-container2">
+                  <p class="efisien1">
+                    Akses layanan publik jadi lebih mudah dan menyenangkan!
+                  </p>
+                </span>
+              </i>
+            </div>
+            <div class="rectangle-parent161">
+              <div class="frame-child170"></div>
+              <b class="fleksibilitas1">Fleksibilitas</b>
+              <i class="nikmati-fleksibilitas-akses1"
+                >Nikmati fleksibilitas akses ke layanan publik dan sistem
+                pemerintahan dari mana saja dan kapan saja.</i
+              >
+            </div>
+          </div>
+          <button class="button-login-publik1" id="buttonLoginPublik">
+            <div class="button-login-publik-child"></div>
+            <div class="login2">Login</div>
+          </button>
+          <button class="button-login-asn1" id="buttonLoginAsn">
+            <div class="layanan-publik1">Layanan Publik</div>
+          </button>
+        </section>
+      </main>
+    </div>
+
+    <script>
+      var buttonLoginPublik = document.getElementById("buttonLoginPublik");
+      if (buttonLoginPublik) {
+        buttonLoginPublik.addEventListener("click", function (e) {
+          window.location.href = "./login-user.html";
+        });
+      }
+
+      var buttonLoginAsn = document.getElementById("buttonLoginAsn");
+      if (buttonLoginAsn) {
+        buttonLoginAsn.addEventListener("click", function (e) {
+          window.location.href = "./layanan-berita-masyarakat.html";
+        });
+      }
+    </script>
+  </body>
+</html>

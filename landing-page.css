@@ -1,0 +1,397 @@
+.banner-image-child,
+.gambar-pantai-gigi-hiu-13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.gambar-pantai-gigi-hiu-13 {
+  object-fit: cover;
+}
+.banner-image-child {
+  background-color: var(--color-gray-800);
+}
+.gunakan-satu-akun1,
+.satu-login-untuk1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  z-index: 2;
+}
+.satu-login-untuk1 {
+  margin: 0;
+  top: 115px;
+  left: 1045px;
+  font-size: var(--font-size-46xl);
+  font-weight: 700;
+  font-family: inherit;
+  width: 594px;
+  height: 294px;
+}
+.gunakan-satu-akun1 {
+  top: 468px;
+  left: 1051px;
+  width: 591px;
+}
+.logo-1-icon13,
+.logo-1800-lampung-thumb-1-icon22 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 293.7px;
+  object-fit: cover;
+  z-index: 2;
+}
+.logo-1800-lampung-thumb-1-icon22 {
+  left: 294px;
+  width: 108px;
+}
+.frame-child170,
+.logo {
+  position: absolute;
+  top: 24px;
+  left: 1304px;
+  width: 402px;
+  height: 68px;
+}
+.frame-child170 {
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.nikmati-pengalaman-yang1,
+.terintegrasi1 {
+  position: absolute;
+  top: 189px;
+  left: 66px;
+  z-index: 1;
+}
+.nikmati-pengalaman-yang1 {
+  top: 39px;
+  left: 18px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  width: 215px;
+  height: 127px;
+}
+.frame-child171,
+.rectangle-parent157 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  width: 250px;
+  height: 250px;
+}
+.frame-child171 {
+  background-color: var(--color-darkslateblue-200);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.lebih-cepat {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.efisien1 {
+  margin: 0;
+}
+.lebih-cepat-dan-container2 {
+  width: 100%;
+}
+.hemat-waktu-dan1,
+.lebih-cepat-dan-container1 {
+  position: absolute;
+  top: 179px;
+  left: 18px;
+  display: flex;
+  align-items: center;
+  width: 220px;
+  height: 65px;
+  z-index: 1;
+}
+.hemat-waktu-dan1 {
+  top: 37px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  text-align: left;
+  width: 215px;
+  height: 120px;
+}
+.frame-child172,
+.rectangle-parent158 {
+  position: absolute;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+}
+.rectangle-parent158 {
+  top: 272px;
+  background-color: var(--color-darkslateblue-200);
+  width: 250px;
+  height: 250px;
+  text-align: right;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-100);
+}
+.frame-child172 {
+  top: 0;
+  background-color: var(--color-darkslateblue-100);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.capai-kemudahan-akses1,
+.easy-access1 {
+  position: absolute;
+  top: 187px;
+  left: 68px;
+  z-index: 1;
+}
+.capai-kemudahan-akses1 {
+  top: 45px;
+  left: 21px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  width: 215px;
+  height: 127px;
+}
+.rectangle-parent159 {
+  position: absolute;
+  top: 47px;
+  left: 277px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslateblue-100);
+  width: 250px;
+  height: 250px;
+  color: var(--color-gray-600);
+}
+.tanpa-ribet1 {
+  position: absolute;
+  top: 181px;
+  left: 58px;
+  z-index: 1;
+}
+.akses-layanan-publik-container1 {
+  position: absolute;
+  top: 57px;
+  left: 21px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  width: 217px;
+  height: 90px;
+  z-index: 1;
+}
+.rectangle-parent160 {
+  position: absolute;
+  top: 189px;
+  left: 554px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslateblue-200);
+  width: 250px;
+  height: 250px;
+  color: var(--color-gray-600);
+}
+.fleksibilitas1 {
+  position: absolute;
+  top: 199px;
+  left: 68px;
+  z-index: 1;
+}
+.nikmati-fleksibilitas-akses1 {
+  position: absolute;
+  top: 39px;
+  left: 21px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  width: 215px;
+  height: 127px;
+  z-index: 1;
+}
+.rectangle-parent161 {
+  position: absolute;
+  top: 317px;
+  left: 277px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  width: 250px;
+  height: 250px;
+}
+.floating-icon1 {
+  position: absolute;
+  top: 152px;
+  left: 101px;
+  filter: var(--drop-shadow-600);
+  width: 804px;
+  height: 567px;
+  z-index: 2;
+  color: var(--color-darkslateblue-200);
+}
+.button-login-publik-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.login2 {
+  position: absolute;
+  top: 10px;
+  left: 96px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-darkslateblue-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 68px;
+  z-index: 1;
+}
+.button-login-publik1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 615px;
+  left: 1045px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-11xl);
+  width: 259px;
+  height: 59px;
+  z-index: 2;
+}
+.layanan-publik1 {
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.button-login-asn1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-13xl);
+  background-color: var(--color-darkslateblue-200);
+  position: absolute;
+  top: 615px;
+  left: 1321px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 2;
+}
+.button-login-asn1:hover {
+  background-color: #38699e;
+}
+.banner-image3 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  background-color: var(--color-gray-800);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.banner-image2 {
+  height: 1117px;
+  flex: 1;
+  position: relative;
+  background-image: url(./public/gambar-pantai-gigi-hiu-11@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.landing-page-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .satu-login-untuk1 {
+    font-size: var(--font-size-33xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .satu-login-untuk1 {
+    font-size: var(--font-size-20xl);
+  }
+  .gunakan-satu-akun1,
+  .terintegrasi1 {
+    font-size: var(--font-size-xl);
+  }
+  .nikmati-pengalaman-yang1 {
+    font-size: var(--font-size-base);
+  }
+  .lebih-cepat-dan-container1 {
+    font-size: var(--font-size-lg);
+  }
+  .hemat-waktu-dan1 {
+    font-size: var(--font-size-base);
+  }
+  .easy-access1 {
+    font-size: var(--font-size-xl);
+  }
+  .capai-kemudahan-akses1 {
+    font-size: var(--font-size-base);
+  }
+  .tanpa-ribet1 {
+    font-size: var(--font-size-xl);
+  }
+  .akses-layanan-publik-container1 {
+    font-size: var(--font-size-base);
+  }
+  .fleksibilitas1 {
+    font-size: var(--font-size-xl);
+  }
+  .nikmati-fleksibilitas-akses1 {
+    font-size: var(--font-size-base);
+  }
+  .login2 {
+    font-size: var(--font-size-xl);
+  }
+}
