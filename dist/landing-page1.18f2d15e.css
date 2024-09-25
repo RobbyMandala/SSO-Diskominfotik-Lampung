@@ -1,0 +1,580 @@
+.daya-tarik-menara-siger-lampun {
+  object-fit: cover;
+  z-index: 0;
+  width: 1728px;
+  max-width: 100%;
+  height: 1131px;
+  display: none;
+  position: relative;
+}
+
+.image-rect {
+  background-color: var(--color-gray-800);
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+  margin: 0 !important;
+}
+
+.logo-1-icon4,
+.logo-1800-lampung-thumb-1-icon8 {
+  object-fit: cover;
+  align-self: stretch;
+  width: 293.7px;
+  min-height: 68px;
+  max-height: 100%;
+  position: relative;
+}
+
+.logo-1800-lampung-thumb-1-icon8 {
+  width: 108px;
+}
+
+.header-logo {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-12xs-3);
+  cursor: pointer;
+  z-index: 2;
+  flex-direction: row;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-child55 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  width: 250px;
+  height: 250px;
+  display: none;
+  position: relative;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.nikmati-pengalaman-yang {
+  flex-shrink: 0;
+  align-self: stretch;
+  align-items: center;
+  height: 127px;
+  font-weight: 500;
+  display: flex;
+}
+
+.terintegrasi {
+  color: red;
+}
+
+.integration-subtitle {
+  padding: 0 var(--padding-sm);
+  font-size: var(--font-size-6xl);
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-child56,
+.rectangle-parent51 {
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.rectangle-parent51 {
+  background-color: var(--color-gray-100);
+  padding: var(--padding-24xl) var(--padding-smi) var(--padding-4xl)
+    var(--padding-3xl);
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-lgi);
+  flex-direction: column;
+  display: flex;
+}
+
+.frame-child56 {
+  background-color: var(--color-darkslateblue-200);
+  width: 250px;
+  height: 250px;
+  display: none;
+  position: relative;
+}
+
+.hemat-waktu-dan {
+  z-index: 1;
+  align-items: center;
+  width: 215px;
+  font-weight: 500;
+  display: flex;
+  position: relative;
+}
+
+.lebih-cepat-dan {
+  margin: 0;
+}
+
+.lebih-cepat-dan-container {
+  z-index: 1;
+  width: 197px;
+  display: inline-block;
+  position: relative;
+}
+
+.lebih-cepat-dan-efisien-wrapper {
+  padding: 0 0 0 var(--padding-4xl);
+  text-align: right;
+  font-size: var(--font-size-4xl);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.rectangle-parent52 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslateblue-200);
+  padding: var(--padding-19xl) var(--padding-smi) var(--padding-xs)
+    var(--padding-mid);
+  align-self: stretch;
+  gap: var(--gap-3xs);
+  color: var(--color-gray-100);
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.frame-parent24,
+.icon-wrapper,
+.rectangle-parent52 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-parent24 {
+  align-self: stretch;
+  gap: var(--gap-3xl);
+}
+
+.icon-wrapper {
+  padding: 0 0 var(--padding-26xl);
+  box-sizing: border-box;
+  color: var(--color-darkslateblue-200);
+  flex: 1;
+  min-width: 187px;
+  min-height: 567px;
+}
+
+.frame-child57 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslateblue-100);
+  width: 250px;
+  height: 250px;
+  display: none;
+  position: relative;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.capai-kemudahan-akses {
+  z-index: 1;
+  align-self: stretch;
+  font-weight: 500;
+  position: relative;
+}
+
+.fleksibilitas-wrapper,
+.rectangle-parent53 {
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.rectangle-parent53 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslateblue-100);
+  padding: var(--padding-25xl) var(--padding-3xs) var(--padding-6xl)
+    var(--padding-6xl);
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  flex-direction: column;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.fleksibilitas-wrapper {
+  font-size: var(--font-size-6xl);
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.frame-parent25,
+.rectangle-parent54 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.rectangle-parent54 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  padding: var(--padding-20xl) var(--padding-mini) var(--padding-lg)
+    var(--padding-xl);
+  align-self: stretch;
+  gap: var(--gap-9xl);
+  color: var(--color-darkslateblue-200);
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.frame-parent25 {
+  gap: var(--gap-xl);
+  flex: 1;
+  min-width: 187px;
+}
+
+.tanpa-ribet {
+  z-index: 1;
+  position: relative;
+}
+
+.convenience-subtitle {
+  padding: 0 var(--padding-3xs);
+  font-size: var(--font-size-5xl);
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.convenience,
+.rectangle-parent55 {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.rectangle-parent55 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslateblue-200);
+  padding: var(--padding-50xl) var(--padding-10xs) var(--padding-2xl)
+    var(--padding-13xl);
+  justify-content: flex-start;
+  align-self: stretch;
+  gap: var(--gap-15xl);
+  display: flex;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.convenience {
+  box-sizing: border-box;
+  flex: 1;
+  min-width: 187px;
+  min-height: 378px;
+  padding: 0 0 128px;
+}
+
+.convenience,
+.floating-icon,
+.integration {
+  justify-content: flex-start;
+  display: flex;
+}
+
+.floating-icon {
+  filter: var(--drop-shadow-600);
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-8xl);
+  z-index: 2;
+  flex-direction: row;
+}
+
+.integration {
+  padding: var(--padding-18xl) 0 0;
+  box-sizing: border-box;
+  flex-direction: column;
+  flex: 1;
+  align-items: flex-start;
+  min-width: 523px;
+  max-width: 100%;
+}
+
+.satu-login-untuk {
+  font-size: inherit;
+  flex-shrink: 0;
+  align-items: center;
+  height: 339px;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 700;
+  display: flex;
+}
+
+.gunakan-satu-akun,
+.satu-login-untuk {
+  z-index: 2;
+  align-self: stretch;
+  position: relative;
+}
+
+.login1 {
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-darkslateblue-200);
+  text-align: left;
+  min-width: 68px;
+  display: inline-block;
+  position: relative;
+}
+
+.button-login-publik {
+  cursor: pointer;
+  padding: var(--padding-2xs-5) var(--padding-xl);
+  background-color: var(--color-white);
+  border-radius: var(--br-11xl);
+  z-index: 2;
+  border: 0;
+  flex-direction: row;
+  flex: 1;
+  justify-content: center;
+  align-items: flex-start;
+  display: flex;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.button-login-publik:hover {
+  background-color: #e6e6e6;
+}
+
+.layanan-publik {
+  font-weight: 600;
+  position: relative;
+}
+
+.button-login-asn,
+.login-buttons {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.button-login-asn {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-darkslateblue-200);
+  padding: var(--padding-2xs-5) var(--padding-13xl);
+  white-space: nowrap;
+  cursor: pointer;
+  z-index: 2;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.login-buttons {
+  gap: var(--gap-mid);
+  width: 535px;
+  max-width: 100%;
+}
+
+.login-subtitle {
+  font-size: var(--font-size-6xl);
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: stretch;
+  gap: 33px;
+}
+
+.benefits,
+.content5,
+.login,
+.login-subtitle {
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.login {
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-46xl);
+  color: var(--color-white);
+  flex-direction: column;
+  width: 597px;
+  min-width: 597px;
+}
+
+.benefits,
+.content5 {
+  flex-direction: row;
+}
+
+.benefits {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 140px;
+}
+
+.content5 {
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-600);
+  font-family: var(--font-poppins);
+  justify-content: flex-end;
+  width: 1669px;
+  padding: 0 64px;
+}
+
+.banner-image,
+.landing-page-1 {
+  justify-content: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.banner-image {
+  padding: var(--padding-9xl) var(--padding-3xl) 405px;
+  box-sizing: border-box;
+  align-items: flex-end;
+  gap: var(--gap-7xl);
+  background-image: url("daya-tarik-menara-siger-lampung-1@2x.ca1ee615.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-direction: column;
+  flex: 1 0;
+  max-width: 100%;
+  margin-top: -7px;
+}
+
+.landing-page-1 {
+  background-color: var(--color-white);
+  letter-spacing: normal;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 100%;
+  height: 1117px;
+  line-height: normal;
+}
+
+@media screen and (width <= 1400px) {
+  .login {
+    flex: 1;
+  }
+
+  .benefits {
+    gap: var(--gap-51xl);
+    flex-wrap: wrap;
+  }
+
+  .content5 {
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (width <= 1200px) {
+  .banner-image {
+    padding-top: var(--padding-xl);
+    box-sizing: border-box;
+    padding-bottom: 263px;
+  }
+}
+
+@media screen and (width <= 825px) {
+  .icon-wrapper {
+    padding-bottom: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+
+  .floating-icon {
+    flex-wrap: wrap;
+  }
+
+  .integration {
+    min-width: 100%;
+  }
+
+  .satu-login-untuk {
+    font-size: var(--font-size-33xl);
+  }
+
+  .login-subtitle {
+    gap: var(--gap-base);
+  }
+
+  .login {
+    min-width: 100%;
+  }
+
+  .benefits {
+    gap: var(--gap-16xl);
+  }
+}
+
+@media screen and (width <= 450px) {
+  .header-logo {
+    flex-wrap: wrap;
+  }
+
+  .nikmati-pengalaman-yang {
+    font-size: var(--font-size-base);
+  }
+
+  .terintegrasi {
+    font-size: var(--font-size-xl);
+  }
+
+  .hemat-waktu-dan {
+    font-size: var(--font-size-base);
+  }
+
+  .lebih-cepat-dan-container {
+    font-size: var(--font-size-lg);
+  }
+
+  .capai-kemudahan-akses {
+    font-size: var(--font-size-base);
+  }
+
+  .tanpa-ribet {
+    font-size: 19px;
+  }
+
+  .rectangle-parent55 {
+    gap: var(--gap-mid);
+  }
+
+  .convenience {
+    box-sizing: border-box;
+    padding-bottom: 83px;
+  }
+
+  .satu-login-untuk {
+    font-size: var(--font-size-20xl);
+  }
+
+  .gunakan-satu-akun {
+    font-size: var(--font-size-xl);
+  }
+
+  .login-buttons {
+    display: none;
+  }
+
+  .benefits {
+    gap: var(--gap-mid);
+  }
+
+  .banner-image {
+    box-sizing: border-box;
+    padding-bottom: 171px;
+  }
+
+  .landing-page-1 {
+    height: auto;
+  }
+}
+/*# sourceMappingURL=landing-page1.18f2d15e.css.map */

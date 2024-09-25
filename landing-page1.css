@@ -58,9 +58,7 @@
   align-items: center;
   flex-shrink: 0;
 }
-.nikmati-pengalaman-yang,
 .terintegrasi {
-  position: relative;
   z-index: 1;
 }
 .integration-subtitle {
